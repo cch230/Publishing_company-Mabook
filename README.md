@@ -14,6 +14,6 @@ It is a web site made with a request of publishing company.
 
 # 웹사이트 화면 
 ## 그림을 클릭하면 사이트로 이동합니다
-[![Site Label](https://github.com/cch230/Entertainment-Web-Site/blob/master/mabook.jpg)](http://mabook.co.kr) 
+[![Site Label](https://github.com/cch230/Publishing_company-Mabook/blob/main/mabook.jpg)](http://mabook.co.kr) 
 
 
