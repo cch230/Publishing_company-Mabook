@@ -1,4 +1,4 @@
-#검정 교과서 출판사 마북
+# 검정 교과서 출판사 마북
 # Publishing_company-Mabook
 
 
@@ -14,6 +14,6 @@ It is a web site made with a request of publishing company.
 
 # 웹사이트 화면 
 ## 그림을 클릭하면 사이트로 이동합니다
-[![Site Label](https://github.com/cch230/Entertainment-Web-Site/blob/master/site1.JPG)](http://mabook.co.kr) 
+[![Site Label](https://github.com/cch230/Entertainment-Web-Site/blob/master/mabook.jpg)](http://mabook.co.kr) 
 
 
